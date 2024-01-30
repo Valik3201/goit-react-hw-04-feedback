@@ -9,6 +9,9 @@ The application dynamically displays the count of reviews for each category and
 extends its functionality to present additional statistics such as the total
 number of reviews and the percentage of positive feedback.
 
+> [!NOTE]\
+> The code has been refactored using React hooks.
+
 ## Features
 
 - Simple and intuitive feedback collection with three categories.
